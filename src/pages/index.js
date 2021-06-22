@@ -25,19 +25,7 @@ export default (() => {
 				<Text margin="0" md-margin="0px 0 20px 0" text-align="left" font="--headline1">
 					STOP NEET
 				</Text>
-				<Menu
-					display="flex"
-					justify-content="center"
-					font="--base"
-					font-weight="700"
-					md-flex-direction="column"
-					md-align-items="center"
-				>
-					<Override slot="link" text-decoration="none" color="--dark" padding="6px 12px" />
-					<Override slot="link-active" color="--primary" />
-					<Override slot="item" padding="6px" />
-				</Menu>
-			</Box>
+				</Box>
 		</Section>
 		<Section background="--color-darkL2" padding="64px 0" sm-padding="40px 0" font="60px sans-serif">
 			<Stack>
@@ -76,7 +64,7 @@ export default (() => {
 						A MODERN MANUSMRITI
 					</Text>
 					<Link
-						href="https://www.wetar.org"
+						href="http://35.198.252.244/stopneet/"
 						border-width="4px"
 						padding="24px 24px 24px 24px"
 						border-style="solid"
