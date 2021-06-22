@@ -487,10 +487,10 @@ On Thursday Keerthana committed suicide when she was alone at home. On Informati
 			transition={"--opacityOut"}
 			quarkly-title={"Badge"}
 			text-decoration-line={"initial"}
-			href={"https://quarkly.io/"}
+			href={"https://wetar.org/"}
 			target={"_blank"}
 		>
-			Made on Quarkly
+			Made by Wetar
 		</Link>
 	</Theme>;
 });
