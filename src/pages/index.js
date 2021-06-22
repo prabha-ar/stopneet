@@ -9,11 +9,10 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"index"} />
 		<Helmet>
 			<title>
-				Quarkly export
+				
 			</title>
-			<meta name={"description"} content={"Web site created using quarkly.io"} />
-			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
-		</Helmet>
+			<meta name={"description"} content={"Web site created by wetar"} />
+			</Helmet>
 		<Section>
 			<Box
 				display="flex"
